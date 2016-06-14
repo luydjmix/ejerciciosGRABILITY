@@ -6,3 +6,6 @@ en ella se encuentra la carpeta “correccion” y “secuencias” la cuales co
 
 “secuencias” es la codificación de la prueba 1 la cuan en mi parecer es una secuencia de ejecuciones las cuales cumplen con una seria de impresiones.
 “correccion” es la de la prueba en la cual indicamos e implementamos la modificación entregado
+
+
+<img style="-webkit-user-select: none" src="http://www.lesframework.com/les_contenido/les_cargarArchivos/ejercicio2.png">
