@@ -6,7 +6,7 @@ en ella se encuentra la carpeta “correccion” y “secuencias” la cuales co
 <br><br>
 “secuencias” es la codificación de la prueba 1 la cuan en mi parecer es una secuencia de ejecuciones las cuales cumplen con una seria de impresiones.
 <br><br>
-<a href="https://www.hackerrank.com/challenges/cube-summation" class="backbone" data-analytics="Breadcrumb" data-attr1="Cube Summation" data-attr2="challenge" data-attr7="4">Cube Summation</a>
+<a href="https://www.hackerrank.com/challenges/cube-summation" class="backbone" data-analytics="Breadcrumb" data-attr1="Cube Summation" data-attr2="challenge" data-attr7="4" target="_blank" >Cube Summation</a>
 <br><br>
 “correccion” es la de la prueba en la cual indicamos e implementamos la modificación entregado
 
